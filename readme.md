@@ -85,7 +85,7 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![e_commerce_sales_dashboard](images/e_commerce_sales_dashboard.png)
+![e_commerce_sales_dashboard](Images/e_Commerce_sales_dashboard.png)
 
 ## Key Insights
 
