@@ -1,4 +1,4 @@
-# e_commerce_sales_snalysis
+# e_commerce_sales_analysis
 
 ## Project Overview
 
